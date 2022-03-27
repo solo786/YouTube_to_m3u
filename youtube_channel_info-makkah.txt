@@ -2,7 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Makkah | Makkah TV Live | "" |
+Makkah Live PK | Pakistan |  | Makkah Live PK
 https://www.youtube.com/watch?v=NxSU6fcQmPs
-
-
