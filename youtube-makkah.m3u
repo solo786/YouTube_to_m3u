@@ -11,5 +11,5 @@
 #########################################################################
 
 
-#EXTINF:-1 group-title="Pakistan" tvg-logo="""" tvg-id="Makkah Live PK", Makkah Live PK
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1648446604/ei/LPhAYteeFvGxgAfqhpSIDw/ip/213.136.91.123/id/NxSU6fcQmPs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/de/spc/4ocVC743bKHkrLv16ZrAbyy7Rio7/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKKcd6EAvOzCap3yPwD9q06l09FU8PY6nGCgFXY-mfiCAiBCYeC1wRkkRlpf2RbgckGXKFuwPozBf8gmcgkkm_XsOA%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="Makkah Tv Live" tvg-logo="""" tvg-id="", Makkah
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1648446790/ei/5vhAYr6XJNP4gQe_o5-4AQ/ip/213.136.91.123/id/NxSU6fcQmPs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/de/spc/4ocVC9Ifz8_45rZeKQcVW9s2wM2M/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgB2y0DGeJEjI9zvLWAwY8KprntCowrbX34G1SNos-fE0CIHFQ4egeXt8u6O90SCjQ5vho91Rt1oEnIuLT8dRQ2Pj2/file/index.m3u8
