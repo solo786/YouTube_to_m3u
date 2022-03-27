@@ -1,0 +1,15 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
+
+#EXTINF:-1 group-title="Madina Live Tv" tvg-logo="""" tvg-id="", Madina
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1648419814/ei/ho9AYtGAMJOFWLOtnpgM/ip/92.17.150.192/id/4GCH7_Gj0ro.2/source/yt_live_broadcast/requiressl/yes/tx/24129503/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/gb/spc/4ocVCyMg37A79iP7YXeNjSMlMo25/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANGfaC7HSLyZm7eEDvm7xb72C5DM7yVRvaexf26JkEgTAiEAnjjNMc3dK876x7rwMv4xxlCyPPZwnFq2_h8Y65jkt9M%3D/file/index.m3u8
