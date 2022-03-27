@@ -2,5 +2,5 @@
 /bin/bash autorun.sh
 sleep 5
 git add .
-git commit -m "hourly changes"
+git commit -m "half hour commits"
 git push
