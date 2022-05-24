@@ -1,5 +1,5 @@
 #!/bin/bash
-/bin/bash autorun.sh
+./autorun.sh
 sleep 5
 git add .
 git commit -m "hourly changes"
